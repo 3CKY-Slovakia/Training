@@ -2,8 +2,8 @@
   <project-configuration id="1">
     <servers id="2">
       <jira id="3">
-        <server-id id="4">d327c909-8880-4b20-a069-571d7ae908f5</server-id>
-        <name>3ckyJIRA</name>
+        <server-id id="4">c533e6fa-a7ea-4d61-a383-9637d9a25db2</server-id>
+        <name>3CKYSOFT</name>
         <url>https://3ckysoft.atlassian.net</url>
         <shared>false</shared>
         <useSessionCookies>false</useSessionCookies>
