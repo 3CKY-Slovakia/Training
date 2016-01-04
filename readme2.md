@@ -1,1 +1,1 @@
-#Create HTML Layout zmena
+#Create Layout zmena layoutu
